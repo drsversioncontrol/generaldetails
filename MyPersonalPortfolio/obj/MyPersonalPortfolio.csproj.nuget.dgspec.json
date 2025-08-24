@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Practice Code\\Dot Net\\BacisDetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj": {}
+    "C:\\Users\\vinod\\Source\\Repos\\drsversioncontrol\\generaldetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj": {}
   },
   "projects": {
-    "E:\\Practice Code\\Dot Net\\BacisDetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj": {
+    "C:\\Users\\vinod\\Source\\Repos\\drsversioncontrol\\generaldetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice Code\\Dot Net\\BacisDetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\vinod\\Source\\Repos\\drsversioncontrol\\generaldetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj",
         "projectName": "MyPersonalPortfolio",
-        "projectPath": "E:\\Practice Code\\Dot Net\\BacisDetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj",
+        "projectPath": "C:\\Users\\vinod\\Source\\Repos\\drsversioncontrol\\generaldetails\\MyPersonalPortfolio\\MyPersonalPortfolio.csproj",
         "packagesPath": "C:\\Users\\vinod\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice Code\\Dot Net\\BacisDetails\\MyPersonalPortfolio\\obj\\",
+        "outputPath": "C:\\Users\\vinod\\Source\\Repos\\drsversioncontrol\\generaldetails\\MyPersonalPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinod\\AppData\\Roaming\\NuGet\\NuGet.Config",

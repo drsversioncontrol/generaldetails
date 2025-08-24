@@ -28,3 +28,33 @@ E:\Practice Code\Dot Net\BacisDetails\MyPersonalPortfolio\obj\Debug\net7.0\refin
 E:\Practice Code\Dot Net\BacisDetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.pdb
 E:\Practice Code\Dot Net\BacisDetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.genruntimeconfig.cache
 E:\Practice Code\Dot Net\BacisDetails\MyPersonalPortfolio\obj\Debug\net7.0\ref\MyPersonalPortfolio.dll
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\appsettings.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.staticwebassets.runtime.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.exe
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.deps.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.runtimeconfig.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.dll
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\bin\Debug\net7.0\MyPersonalPortfolio.pdb
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.AssemblyInfoInputs.cache
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.AssemblyInfo.cs
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.RazorAssemblyInfo.cache
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.RazorAssemblyInfo.cs
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets\msbuild.MyPersonalPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets\msbuild.build.MyPersonalPortfolio.props
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyPersonalPortfolio.props
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyPersonalPortfolio.props
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\scopedcss\bundle\MyPersonalPortfolio.styles.css
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\scopedcss\projectbundle\MyPersonalPortfolio.bundle.scp.css
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.dll
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\refint\MyPersonalPortfolio.dll
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.pdb
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\MyPersonalPortfolio.genruntimeconfig.cache
+C:\Users\vinod\Source\Repos\drsversioncontrol\generaldetails\MyPersonalPortfolio\obj\Debug\net7.0\ref\MyPersonalPortfolio.dll
